@@ -2,7 +2,7 @@
 
 This example is a ready-to-use client Vue application with the DevExpress Dashboard component.
 
-> Get Started: 401150
+> **Documentation**: [Client-Side Configuration (Vue)](https://docs.devexpress.com/Dashboard/401150)
 
 The example uses a modular approach that based on the client-server model. You need a server (backend) project and a client (frontend) application that includes all the necessary styles, scripts and HTML-templates. Note that the script version on the client should match with libraries version on the server up to a minor version.
 
@@ -25,3 +25,8 @@ The [JS](JS) folder contains a client application.
     ```
 
 3. Open ```http://localhost:8080/``` in your browser to see the result. The HTML JavaScript Dashboard displays the dashboard stored on the preconfigured server (```https://demos.devexpress.com/services/dashboard/api```).
+
+## See Also
+- [Client-Side Configuration (Vue)](https://docs.devexpress.com/Dashboard/401150)
+- [HTML JavaScript Dashboard Control
+](https://docs.devexpress.com/Dashboard/119108/)
