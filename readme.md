@@ -1,4 +1,4 @@
-## Client-Side Configuration (Vue)
+## Dashboard Client-Side Application (Vue)
 
 This example is a ready-to-use client Vue application with the DevExpress Dashboard component.
 
