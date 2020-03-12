@@ -18,13 +18,14 @@ The [JS](JS) folder contains a client application.
     npm install
     ```
 
-2. In the same folder, run the following command to compile and run the application:
+2. In the same folder, run the following commands to compile and run the application:
 
     ```bash
     npm run build
+    npm run serve
     ```
 
-3. Open ```http://localhost:8080/``` in your browser to see the result. The HTML JavaScript Dashboard displays the dashboard stored on the preconfigured server (```https://demos.devexpress.com/services/dashboard/api```).
+3. Open [http://localhost:8080/](http://localhost:8080/) in your browser to see the result. The HTML JavaScript Dashboard displays the dashboard stored on the preconfigured server ([https://demos.devexpress.com/services/dashboard/api](https://demos.devexpress.com/services/dashboard/api)).
 
 ## See Also
 Documentation:
