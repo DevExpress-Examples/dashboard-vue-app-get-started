@@ -1,4 +1,4 @@
-# Client-Side Dashboard Application built with Vue.js
+# Get Started - Dashboard Component for Vue
 
 This project demonstrates how you can incorporate a DevExpress Dashboard component into a client-side app built with Vue.js. Use it as a template when you need to create a similar web application.
 
@@ -27,7 +27,7 @@ Open ```http://localhost:8080/``` in your browser to see the result.
 
 ## Documentation
 
-- [Add a Web Dashboard to a Vue Application](https://docs.devexpress.com/Dashboard/402486/web-dashboard/dashboard-component-for-vue/add-web-dashboard-to-a-vue-application?v=20.2)
+- [Create a Vue Dashboard Application](https://docs.devexpress.com/Dashboard/402495/get-started/build-web-dashboard-applications/create-a-vue-dashboard-application?v=20.2)
 - [Dashboard Component for Vue](https://docs.devexpress.com/Dashboard/401150/web-dashboard/dashboard-component-for-vue?v=20.2)
 
 ## Examples
