@@ -1,11 +1,11 @@
-# Get Started - Dashboard Component for Vue
+# Get Started - Client-Side Dashboard Application built with Vue
 
-This project demonstrates how you can incorporate a DevExpress Dashboard component into a client-side app built with Vue.js. Use it as a template when you need to create a similar web application.
+This project demonstrates how you can incorporate a DevExpress Dashboard component into a client-side app built with Vue. Use it as a template when you need to create a similar web application.
 
-The example uses a modular client-server approach. The server (backend) project communicates with the client (frontend) application that includes all the necessary styles, scripts and HTML templates. Note that the script version on the client must match the version of libraries on the server up to the minor version number.
+The example uses a modular client-server approach. The server (backend) project communicates with the client (frontend) application that includes all the necessary styles, scripts and HTML templates. Note that the script version on the client must match the version of libraries on the server.
 
 - The [asp-net-core-server](asp-net-core-server) folder contains the backend project built with ASP.NET Core 3.1.
-- The [dashboard-vue-app](dashboard-vue-app) folder contains the client application built with Vue.js.
+- The [dashboard-vue-app](dashboard-vue-app) folder contains the client application built with Vue.
 
 ## Quick Start
 
@@ -31,7 +31,7 @@ Open ```http://localhost:8080/``` in your browser to see the result.
 - [Dashboard Component for Vue](https://docs.devexpress.com/Dashboard/401150/web-dashboard/dashboard-component-for-vue?v=20.2)
 
 ## Examples
-- [Dashboard Vue Example](https://github.com/DevExpress-Examples/dashboard-vue-example)
-- [Dashboard Client-Side Application (Angular)](https://github.com/DevExpress-Examples/dashboard-angular-app)
-- [Dashboard Client-Side Application (React)](https://github.com/DevExpress-Examples/dashboard-react-app)
+- [Dashboard Component for Vue - Configuration](https://github.com/DevExpress-Examples/dashboard-vue-example)
+- [Get Started - Client-Side Dashboard Application (Angular)](https://github.com/DevExpress-Examples/dashboard-angular-app)
+- [Get Started - Client-Side Dashboard Application (React)](https://github.com/DevExpress-Examples/dashboard-react-app)
 - [ASP.NET Core 3.1 backend for Web Dashboard](https://github.com/DevExpress-Examples/asp-net-core-dashboard-backend)
