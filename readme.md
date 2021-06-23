@@ -1,4 +1,4 @@
-# Get Started - Client-Side Dashboard Application built with Vue
+# Dashboard for Vue - Get Started - Client-Side Dashboard Application built with Vue
 
 This project demonstrates how you can incorporate a DevExpress Dashboard component into a client-side app built with Vue. Use it as a template when you need to create a similar web application.
 
