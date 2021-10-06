@@ -3,12 +3,6 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T828586)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
-
-* [App.vue](./dashboard-vue-app/src/App.vue)
-* [Startup.cs](./asp-net-core-server/Startup.cs)
-<!-- default file list end -->
 
 # Dashboard for Vue - Get Started - Client-Side Dashboard Application built with Vue
 
@@ -39,6 +33,13 @@ npm run serve
 ```
 
 Open ```http://localhost:8080/``` in your browser to see the result.
+
+<!-- default file list -->
+## Files to Look At
+
+* [App.vue](./dashboard-vue-app/src/App.vue)
+* [Startup.cs](./asp-net-core-server/Startup.cs)
+<!-- default file list end -->
 
 ## Documentation
 
