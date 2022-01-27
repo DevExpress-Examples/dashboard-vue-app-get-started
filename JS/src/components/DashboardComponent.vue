@@ -4,11 +4,7 @@
 </template>
 
 <script>
-import { DashboardControl, ResourceManager, DashboardPanelExtension } from 'devexpress-dashboard';
-import Globalize from 'globalize';
-
-import cldrdata from "devextreme-cldr-data/en.json";
-import supplemental from "devextreme-cldr-data/supplemental.json";
+import { DashboardControl, ResourceManager } from 'devexpress-dashboard';
 
 export default {
   name: 'DashboardComponent',
@@ -16,10 +12,6 @@ export default {
         componentId: String
     },
   mounted () {
-    Globalize.load(
-      cldrdata, supplemental
-    );
-    Globalize.locale('en');
 
     ResourceManager.embedBundledResources();
 
@@ -28,7 +20,6 @@ export default {
         endpoint: "https://demos.devexpress.com/services/dashboard/api",
         workingMode: "Designer",
     });
-    this.dashboardControl.registerExtension(new DashboardPanelExtension(this.dashboardControl));
     this.dashboardControl.render();
   },
   beforeDestroy() {

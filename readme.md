@@ -1,5 +1,9 @@
 <!-- default badges list -->
+<<<<<<< HEAD
 ![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/199016715/19.1.4%2B)
+=======
+![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/199016715/19.2.3%2B)
+>>>>>>> 19.2.3+
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T828586)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
@@ -23,13 +27,14 @@ The [JS](JS) folder contains a client application.
     npm install
     ```
 
-2. In the same folder, run the following command to compile and run the application:
+2. In the same folder, run the following commands to compile and run the application:
 
     ```bash
     npm run build
+    npm run serve
     ```
 
-3. Open ```http://localhost:8080/``` in your browser to see the result. The HTML JavaScript Dashboard displays the dashboard stored on the preconfigured server (```https://demos.devexpress.com/services/dashboard/api```).
+3. Open [http://localhost:8080/](http://localhost:8080/) in your browser to see the result. The HTML JavaScript Dashboard displays the dashboard stored on the preconfigured server ([https://demos.devexpress.com/services/dashboard/api](https://demos.devexpress.com/services/dashboard/api)).
 
 ## See Also
 Documentation:
