@@ -57,4 +57,4 @@ Open ```http://localhost:8080/``` in your browser to see the result.
 - [Dashboard Component for Vue - Configuration](https://github.com/DevExpress-Examples/dashboard-vue-app-configuration)
 - [Get Started - Client-Side Dashboard Application (Angular)](https://github.com/DevExpress-Examples/dashboard-angular-app-get-started)
 - [Get Started - Client-Side Dashboard Application (React)](https://github.com/DevExpress-Examples/dashboard-react-app-get-started)
-- [ASP.NET Core 3.1 backend for Web Dashboard](https://github.com/DevExpress-Examples/asp-net-core-dashboard-backend)
+- [ASP.NET Core backend for Web Dashboard](https://github.com/DevExpress-Examples/asp-net-core-dashboard-backend)
