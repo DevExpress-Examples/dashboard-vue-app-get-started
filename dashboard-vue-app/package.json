@@ -8,11 +8,11 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@devexpress/analytics-core": "21.2-stable",
-    "devexpress-dashboard": "21.2-stable",
-    "devexpress-dashboard-vue": "21.2-stable",
-    "devextreme": "21.2-stable",
-    "devextreme-vue": "21.2-stable",
+    "@devexpress/analytics-core": "22.1-stable",
+    "devexpress-dashboard": "22.1-stable",
+    "devexpress-dashboard-vue": "22.1-stable",
+    "devextreme": "22.1-stable",
+    "devextreme-vue": "22.1-stable",
     "core-js": "^3.6.5",
     "vue": "^3.0.0"
   },
