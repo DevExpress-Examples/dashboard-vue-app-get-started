@@ -8,7 +8,6 @@
 
 <script>
 import { DxDashboardControl } from 'devexpress-dashboard-vue';
-
 export default {
     components: {
         DxDashboardControl
