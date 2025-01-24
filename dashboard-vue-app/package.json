@@ -9,11 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@devexpress/analytics-core": "^24.2.3",
-    "devexpress-dashboard": "^24.2.3",
-    "devexpress-dashboard-vue": "^24.2.3",
-    "devextreme": "^24.2.3",
-    "devextreme-vue": "^24.2.3",
+    "@devexpress/analytics-core": "24.2-stable",
+    "devexpress-dashboard": "24.2-stable",
+    "devexpress-dashboard-vue": "24.2-stable",
+    "devextreme": "24.2-stable",
+    "devextreme-vue": "24.2-stable",
     "vue": "^3.5.13"
   },
   "devDependencies": {
