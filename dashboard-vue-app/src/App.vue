@@ -2,7 +2,7 @@
     <div>
         <DxDashboardControl 
             style="height:900px; display: 'block'; width: '100%';"
-            endpoint="https://demos.devexpress.com/services/dashboard/api"/>
+            endpoint="http://localhost:5000/api/dashboard"/>
     </div>  
 </template>
 
