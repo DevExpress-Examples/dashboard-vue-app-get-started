@@ -1,5 +1,4 @@
 <!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/199016715/24.2.1%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T828586)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 [![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
@@ -9,9 +8,9 @@
 
 This project demonstrates how you can incorporate a DevExpress Dashboard component into a client-side app built with Vue. Use it as a template when you need to create a similar web application.
 
-The example uses a modular client-server approach. The server (backend) project communicates with the client (frontend) application that includes all the necessary styles, scripts and HTML templates. Note that the script version on the client must match the version of libraries on the server.
+The example uses a modular client-server approach. The server (backend) project communicates with the client (frontend) application and includes all the necessary styles, scripts and HTML templates. Note that the script version on the client must match the version of libraries on the server.
 
-- The [asp-net-core-server](asp-net-core-server) folder contains the backend project that targets .NET 6.
+- The [asp-net-core-server](asp-net-core-server) folder contains the backend project that targets .NET 8.
 - The [dashboard-vue-app](dashboard-vue-app) folder contains the client application built with Vue.
 
 ## Quick Start
@@ -36,10 +35,10 @@ In the **dashboard-vue-app** folder, run the following commands:
 
 ```
 npm install
-npm run serve
+npm run dev
 ```
 
-Open ```http://localhost:8080/``` in your browser to see the result.
+Open your browser and navigate to the URL specified in the command output to see the result.
 
 ## Files to Review
 
