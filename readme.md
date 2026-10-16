@@ -11,7 +11,7 @@ This project demonstrates how you can incorporate a DevExpress Dashboard compone
 
 The example uses a modular client-server approach. The server (backend) project communicates with the client (frontend) application and includes all the necessary styles, scripts and HTML templates. Note that the script version on the client must match the version of libraries on the server.
 
-- The [asp-net-core-server](asp-net-core-server) folder contains the backend project that targets .NET 8.
+- The [asp-net-core-server](asp-net-core-server) folder contains the backend project.
 - The [dashboard-vue-app](dashboard-vue-app) folder contains the client application built with Vue.
 
 ## Quick Start
